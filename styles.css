@@ -1,0 +1,55 @@
+.contenedor {
+background-color: #002868;
+border: 10px solid FFFFFF;
+height: 370px;
+width: 520px;
+position: relative;
+}
+
+
+
+.rojopequeno1 {
+    height: 150px;
+    width: 150px;
+    background-color: #EF2B2D;
+    position:absolute;
+    top: 0px;
+    left: 0px;
+    border-bottom: 10px solid white;
+    border-right: 10px solid white;
+
+}
+
+.rojopequeno2 {
+    height: 150px;
+    width: 150px;
+    background-color: #EF2B2D;
+    position:absolute;
+    bottom: 0px;
+    left: 0px;
+    border-top: 10px solid white;
+    border-right: 10px solid white;
+   
+}
+
+.grande1 {
+    height: 150px;
+    width: 300px;
+    background-color: #EF2B2D;
+    position:absolute;
+    top: 0px;
+    right: 0px;
+    border-bottom: 10px solid white;
+    border-left: 10px solid white;
+}
+.grande2 {
+    height: 150px;
+    width: 300px;
+    background-color: #EF2B2D;
+    position:absolute;
+    bottom: 0px;
+    right: 0px;
+    border-top: 10px solid white;
+    border-left: 10px solid white;
+}
+
